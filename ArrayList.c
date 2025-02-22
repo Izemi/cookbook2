@@ -1,12 +1,3 @@
-/*
- * File Name: ArrayList.c
- * Author: Ozan Erat
- * Date: 2/6/2025
- * Version: 1.0.
- * Description: 
- *   Implementation of ArrayList for the Cookbook2 lab
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
