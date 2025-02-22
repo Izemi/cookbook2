@@ -1,11 +1,3 @@
-/*
- * File Name: cookbook.c
- * Author: Ozan Erat
- * Date: 2/6/2025
- * Version: 1.0.
- * Description: 
- *   The driver for the Cookbook2 lab
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
